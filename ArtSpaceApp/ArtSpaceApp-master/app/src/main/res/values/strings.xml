@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">Art Space App</string>
+    <string-array name="arts">
+        <item>Мона Лиза</item>
+        <item>Девушка с жемчужной серёжкой</item>
+        <item>Девушка, читающая письмо у открытого окна</item>
+        <item>Постоянство памяти</item>
+        <item>Девочка с персиками</item>
+        <item>Водоём Виктор</item>
+        <item>Летний пейзаж</item>
+        <item>Лошади на взморье</item>
+        <item>За завтраком</item>
+        <item>Боярышня</item>
+    </string-array>
+
+    <string-array name="artists">
+        <item>Леонардо да Винчи(1503 г.)</item>
+        <item>Ян Вермеер(1665 г.)</item>
+        <item>Ян Вермеер(1657 г.–1659 г.)</item>
+        <item>Сальвадор Дали(1931 г.)</item>
+        <item>Валентин Серов(1887 г.)</item>
+        <item>Виктор Борисов-Мусатов(1902 г.)</item>
+        <item>Илья Репин(1879 г.)</item>
+        <item>Валентин Серов(1905 г.)</item>
+        <item>Зинаида Серебрякова(1914 г.)</item>
+        <item>Виктор Васнецов(1884 г.)</item>
+    </string-array>
+
+    <dimen name="button_corner_radius">40dp</dimen>
+    <dimen name="padding_vertical">16dp</dimen>
+    <dimen name="button_image_width">1024dp</dimen>
+    <dimen name="button_image_height">512dp</dimen>
+    <dimen name="button_interior_padding">24dp</dimen>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="arts_name">
+        <item>@drawable/art1</item>
+        <item>@drawable/art2</item>
+        <item>@drawable/art3</item>
+        <item>@drawable/art4</item>
+        <item>@drawable/art5</item>
+        <item>@drawable/art6</item>
+        <item>@drawable/art7</item>
+        <item>@drawable/art8</item>
+        <item>@drawable/art9</item>
+        <item>@drawable/art10</item>
+    </array>
+</resources>
